@@ -1,0 +1,15 @@
+.settings/
+.project
+.classpath
+target/
+**/.gradle/
+**/gradlew
+**/gradlew.bat
+**/build
+**/generated
+**/*.iml
+**/.idea/
+**/tmp
+**/tm*.log
+**/*.epoch
+**/tm*.lcks
